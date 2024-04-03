@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    color: white;
+}
+*,::after,::before{
+    box-sizing: border-box;
+}
